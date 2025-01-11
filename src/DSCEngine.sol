@@ -9,7 +9,7 @@ import {AggregatorV3Interface} from "@chainlink/contracts/src/v0.8/interfaces/Ag
 
 /**
  * @title DSCEngine
- * @author Nagateja
+ * @author Nagateja kachapuram
  *
  * The system is designed to be a minimal, and have the tokens maintain 1 token == 1 $ peg
  * This stable coin has properties:
