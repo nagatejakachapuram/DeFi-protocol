@@ -30,7 +30,7 @@ import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 
 /*
  * @title DecentralizedStableCoin
- * @author Patrick Collins
+ * @author Kachapuram Nagateja
  * Collateral: Exogenous
  * Minting (Stability Mechanism): Decentralized (Algorithmic)
  * Value (Relative Stability): Anchored (Pegged to USD)
